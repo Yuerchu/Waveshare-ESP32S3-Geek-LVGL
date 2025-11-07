@@ -29,7 +29,8 @@
 ![4d6c88100ba3e937a0ce7c025d05218](https://github.com/user-attachments/assets/6af57428-c7b1-407d-869e-c5930ffa6195)
 ![c57278b70f89263304562fdb7f96a32](https://github.com/user-attachments/assets/196eca9a-5c16-4824-a4df-1329f2c42498)
 
-ESP-IDF 版本的 还在测试
+ESP-IDF 版本的 还在测试 已知Bug会频繁重启
+![141a9ff8ab6fc1d2fb402ae400bb3a6](https://github.com/user-attachments/assets/32666f4f-721e-41ef-a1cc-ab25e11ac76e)
 
 ## 许可证
 MIT
