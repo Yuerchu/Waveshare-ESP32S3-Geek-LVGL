@@ -1,6 +1,6 @@
 # Waveshare-ESP32S3-Geek-LVGL
 
-> 基于 Arduino 并测试通过，但 ESP-IDF 版本的我还在试，可正确编译和烧录，但使用会偏色+花屏
+> 基于 Arduino 并测试通过，~~但 ESP-IDF 版本的我还在试，可正确编译和烧录，但使用会偏色+花屏~~ ESP-IDF 版本的咱不公开
 
 ## 故事背景
 
@@ -28,6 +28,8 @@
 ![7c9d84de8f6cfd40c5108573fe177f1](https://github.com/user-attachments/assets/77bfd0e4-f45c-4818-976f-b0ce2c6e3f58)
 ![4d6c88100ba3e937a0ce7c025d05218](https://github.com/user-attachments/assets/6af57428-c7b1-407d-869e-c5930ffa6195)
 ![c57278b70f89263304562fdb7f96a32](https://github.com/user-attachments/assets/196eca9a-5c16-4824-a4df-1329f2c42498)
+
+ESP-IDF 版本的 还在测试
 
 ## 许可证
 MIT
