@@ -32,5 +32,8 @@
 ESP-IDF 版本的 还在测试 已知Bug会频繁重启
 ![141a9ff8ab6fc1d2fb402ae400bb3a6](https://github.com/user-attachments/assets/32666f4f-721e-41ef-a1cc-ab25e11ac76e)
 
+## 另外提一嘴
+- 这块板子虽然有 PSRAM，但并不支持 Octal 八线模式，否则会因为这个无限重启。改到 Quad 四线模式就可以了。
+
 ## 许可证
 MIT
